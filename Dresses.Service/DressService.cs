@@ -23,4 +23,3 @@ namespace Dresses.Service
         }
     }
 }
-//123456
