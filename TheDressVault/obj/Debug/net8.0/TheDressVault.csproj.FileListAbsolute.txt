@@ -1,0 +1,7 @@
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.csproj.AssemblyReference.cache
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.AssemblyInfoInputs.cache
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.AssemblyInfo.cs
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.csproj.CoreCompileInputs.cache
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.MvcApplicationPartsAssemblyInfo.cs
+C:\טובי גולדשטיין\TheDressVault\TheDressVault\obj\Debug\net8.0\TheDressVault.MvcApplicationPartsAssemblyInfo.cache
