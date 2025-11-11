@@ -13,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<DataContext>();
+builder.Services.AddDbContext<DataContext>();
 builder.Services.AddScoped<IDressService, DressService>();
 builder.Services.AddScoped<IDressRepository, DressRepository>();
 

@@ -2,11 +2,11 @@
 {
     public class Dress
     {
-        public int dress_id;
-        public int lender_id;
-        public string name;
-        public string description;
-        public int size;
-        public int rental_price;
+        public int Id { get; set; }
+       // public int lender_id {  get; set; }
+        public string name { get; set; }
+        public string description { get; set; }
+        public int size { get; set; }
+        public int rental_price { get; set; }
     }
 }

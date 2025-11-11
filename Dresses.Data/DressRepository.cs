@@ -18,7 +18,7 @@ namespace Dresses.Data
 
         public List<Dress> GetAll()
         {
-            return _context.Dresses;
+            return _context.Dresses.ToList();
         }
     }
 }

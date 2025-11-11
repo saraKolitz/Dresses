@@ -1,4 +1,6 @@
-﻿namespace Dresses.Core.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Dresses.Core.Entities
 {
     public class Rentals
     {
